@@ -1,0 +1,2 @@
+# No external dependencies required; uses Python standard library
+# If you want to run in a venv, use: python -m venv .venv\n# Activate and run: python ingest.py
