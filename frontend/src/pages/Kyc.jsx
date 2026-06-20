@@ -22,7 +22,7 @@ function Kyc() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/kyc/submit",
+        "https://prototype-banking.onrender.com/api/kyc/submit",
         formData,
         {
           headers: {
